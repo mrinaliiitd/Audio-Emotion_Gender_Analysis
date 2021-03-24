@@ -1,0 +1,1 @@
+Prediction of Gender, Emotion and gender_emotion from speech audio files using different Machine Learning models (CNN, MLP, SVM, RandomForest). Please read the Readme.pdf for better understanding and accuracies.
